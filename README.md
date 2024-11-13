@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Saya seorang mahasiswa **Pendidikan Teknik Informa
 - 🎓 Mempersiapkan **observasi dan praktek mengajar** di SMP, untuk mendapatkan pemahaman yang lebih dalam tentang proses belajar mengajar.
   
 ## Hubungi Saya
-- [LinkedIn]((https://www.linkedin.com/in/muhammad-abdi-qoyyum-323419287/))
+- [LinkedIn](https://www.linkedin.com/in/muhammad-abdi-qoyyum-323419287/)
 - [Instagram](https://www.instagram.com/qoyyumxd)
 
 Terima kasih sudah mengunjungi profil saya! Saya selalu terbuka untuk berdiskusi, bertukar ide, atau mungkin berkolaborasi dalam proyek seru lainnya.
