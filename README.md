@@ -1,6 +1,6 @@
 # Hello, I'm **Qoyyum**! 👋
 
-Welcome to my GitHub profile! Saya seorang mahasiswa **Pendidikan Teknik Informatika dan Komputer** yang senang mengembangkan keterampilan di bidang teknologi dan pendidikan. Saya suka mengeksplorasi berbagai hal baru, terutama yang berhubungan dengan **teknologi informasi**, **otomotif**, dan **sejarah**.
+Welcome to my GitHub profile! Saya seorang mahasiswa **Informatika** yang senang mengembangkan keterampilan di bidang teknologi dan pendidikan. Saya suka mengeksplorasi berbagai hal baru, terutama yang berhubungan dengan **teknologi informasi**, **otomotif**, dan **sejarah**.
 
 ## Tentang Saya
 - 🔍 Saya suka mempelajari hal-hal kecil yang mungkin kurang penting tapi menarik! Termasuk teori-teori diluar programming seperti sejarah, psikologi, otomotif, fisika, fantasy film atau video game, ekonomi, militer, teknologi, dan lainnya yang mungkin setidaknya sedikit bermanfaat bagi saya karena rasa ingin tahu yang besar walau mungkin hanya sedikit yang paham karena memang sebanyak itu interesting saya.
